@@ -1,0 +1,21 @@
+{
+  "name": "cryptocurrency-price-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npg311/cryptocurrency-price-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npg311/cryptocurrency-price-tracker/issues"
+  },
+  "homepage": "https://github.com/npg311/cryptocurrency-price-tracker#readme"
+}
